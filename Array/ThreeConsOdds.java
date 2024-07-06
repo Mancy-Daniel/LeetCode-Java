@@ -1,6 +1,9 @@
 import java.util.Scanner;
 
 // 1550. Three Consecutive Odds
+/*Input: arr = [1,2,34,3,4,5,7,23,12]
+Output: true
+Explanation: [5,7,23] are three consecutive odds. */
 class Solution {
     public static boolean threeConsecutiveOdds(int[] arr) {
 
